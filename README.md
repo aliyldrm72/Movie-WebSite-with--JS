@@ -1,4 +1,4 @@
-# WATCH MOVİES
+# WATCH MOVİES WTH A RESPONSİVE WEB-SİTE .
 
 This project is coded to be a video content site.
 
